@@ -1,0 +1,1 @@
+This is my Etch-A-Sketch project. It took a lot of inner motivation to start this one, because I've heard it's a little difficult. Focusing on utilizing DOM/Javascript today!
